@@ -1,15 +1,11 @@
 # Job Poral Small Project
 
-# clone the project
+1: clone the project
 
-# Install Dependencies:
-
+2: Install Dependencies:
 After initializing the project, install the necessary dependencies by running:
+$ npm install
 
-# npm install
-
-# Run the Code:
-
+3:Run the Code:
 To start the development server, use the following command:
-
-# npm run dev
+$: npm run dev
